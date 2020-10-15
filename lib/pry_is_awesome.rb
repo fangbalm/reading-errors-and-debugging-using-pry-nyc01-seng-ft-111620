@@ -15,4 +15,4 @@ def plus_two(number)
 	number = number + 2
 	number
 	binding.pry
-end 
+end
