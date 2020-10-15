@@ -12,7 +12,7 @@ end
 prying_into_the_method
 
 def plus_two(number)
-	number + 2
+	number = number + 2
 	number
 	binding.pry
 end 
